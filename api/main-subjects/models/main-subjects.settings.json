@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "main_subjects",
+  "info": {
+    "name": "mainSubjects"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "mainSubjects": {
+      "type": "json"
+    }
+  }
+}
